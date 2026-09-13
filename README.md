@@ -158,4 +158,4 @@ See the [Helm chart repository](https://microsoft.github.io/planetary-computer-a
 
 See the [Function package repository](https://microsoft.github.io/planetary-computer-apis) published to GitHub pages for the published Azure Functions.
 Created by Jason Scott Heisew
-Owned by Elon Musk 
+Owned by Elon Musk https://www.x.com
