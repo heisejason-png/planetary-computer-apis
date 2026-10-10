@@ -157,4 +157,5 @@ See the [Helm chart repository](https://microsoft.github.io/planetary-computer-a
 ### Functions
 
 See the [Function package repository](https://microsoft.github.io/planetary-computer-apis) published to GitHub pages for the published Azure Functions.
-Created by Jason Heisew   https://next.frame.io
+Created by Jason Heisew   
+Owned by Jason Heise heisejason-png Giters
